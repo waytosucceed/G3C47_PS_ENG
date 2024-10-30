@@ -1,0 +1,229 @@
+{
+  "heading": "Facts and Opinions",
+  "topics": [
+    {
+      "heading": "Reading (Facts v/s Opinions)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of these is a fact?",
+          "options": [
+            { "text": "Chocolate ice cream is the best flavour." },
+            { "text": "The sun rises in the east." },
+            { "text": "Blue is a prettier colour than red." }
+          ],
+          "answer": 1,
+          "explanation": "This is a fact because it can be observed and proven. No matter what anyone thinks or feels, the sun always rises in the east. The other options are opinions because they express personal preferences or beliefs."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which statement is an opinion?",
+          "options": [
+            { "text": "Water boils at 100°C at sea level." },
+            { "text": "There are 7 days in a week." },
+            { "text": "Pizza is the most delicious food." }
+          ],
+          "answer": 2,
+          "explanation": "This is an opinion because it expresses a personal preference for food. What someone finds delicious can vary from person to person."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of these is a fact about a dog?",
+          "options": [
+            { "text": "Dogs are the cutest animals." },
+            { "text": "Dogs have four legs." },
+            { "text": "Every dog should wear a collar." }
+          ],
+          "answer": 1,
+          "explanation": "This is a fact because it's true for all healthy dogs and can be observed. The other options are opinions expressing personal beliefs about dogs, which can differ from person to person."
+        },
+        {
+          "questionNo": 4,
+          "question": "What makes something a fact?",
+          "options": [
+            { "text": "It's something that can be proven true." },
+            { "text": "It's something that makes people happy." },
+            { "text": "It's something that changes often." }
+          ],
+          "answer": 1,
+          "explanation": "A fact is something that can be proven true through observation, measurement, or research. Facts don't change based on what people think or feel about them."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which statement is an opinion about school?",
+          "options": [
+            { "text": "School starts at 8:00 AM." },
+            { "text": "There are students in the school." },
+            { "text": "The school building is made of bricks." },
+            { "text": "Recess is the best part of the school day." }
+          ],
+          "answer": 3,
+          "explanation": "This is an opinion because it expresses a personal preference for school. Some students enjoy recess the most, while others prefer different parts of the school day. The other options are facts that can be observed or verified and don't depend on personal feelings."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of these is a fact about the weather?",
+          "options": [
+            { "text": "Rainy days are the best." },
+            { "text": "Snow is more fun than sunshine." },
+            { "text": "Water freezes at 0°C (32°F)." }
+          ],
+          "answer": 2,
+          "explanation": "This is a fact because it's a scientific truth that can be observed and measured. Water always freezes at this temperature under normal conditions. The other options are opinions about weather and seasons, which can vary from person to person based on their preferences."
+        },
+        {
+          "questionNo": 7,
+          "question": "What is an opinion?",
+          "options": [
+            { "text": "Something that everyone knows is true." },
+            { "text": "A personal belief or feeling about something." }
+          ],
+          "answer": 1,
+          "explanation": "An opinion is a personal view, belief, or judgment about something. Opinions can differ for different people and can't be proven right or wrong. The other options better describe facts rather than opinions."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which statement about animals is a fact?",
+          "options": [
+            { "text": "Dolphins are smarter than all other animals." },
+            { "text": "Giraffes have long necks." },
+            { "text": "Lions are the bravest animals." }
+          ],
+          "answer": 1,
+          "explanation": "This is a fact because it's a true statement about giraffes that can be observed and measured. All giraffes have long necks compared to other animals. The other options are opinions that express personal beliefs about animals, which can vary from person to person."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which of these is an opinion about food?",
+          "options": [
+            { "text": "Apples grow on trees." },
+            { "text": "Milk comes from cows." },
+            { "text": "Vegetables are tasty." }
+          ],
+          "answer": 2,
+          "explanation": "This is an opinion because it expresses a personal feeling about vegetables. Some people might dislike vegetables, while others might love them."
+        },
+        {
+          "questionNo": 10,
+          "question": "What's the difference between a fact and an opinion?",
+          "options": [
+            { "text": "Facts are always about numbers, and opinions are about words." },
+            { "text": "Facts can be proven true, opinions are personal beliefs." }
+          ],
+          "answer": 1,
+          "explanation": "This correctly describes the main difference between facts and opinions. Facts are statements that can be proven true through evidence or observation, while opinions are personal beliefs or feelings that can vary from person to person."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which statement about the moon is a fact?",
+          "options": [
+            { "text": "The moon is made of cheese." },
+            { "text": "The moon is the prettiest thing in the sky." },
+            { "text": "The moon orbits around the Earth." }
+          ],
+          "answer": 2,
+          "explanation": "This is a fact because it's a scientific truth that can be observed and measured. The moon's orbit around Earth is a natural phenomenon that doesn't depend on personal beliefs. The other options are either false statements or opinions expressing personal views about the moon."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which of these is an opinion about books?",
+          "options": [
+            { "text": "Books have pages." },
+            { "text": "Books contain words." },
+            { "text": "Picture books are better than chapter books." }
+          ],
+          "answer": 2,
+          "explanation": "This is an opinion because it expresses a personal preference about types of books. Some people might prefer picture books, while others might enjoy chapter books more."
+        },
+        {
+          "questionNo": 13,
+          "question": "What makes something an opinion?",
+          "options": [
+            { "text": "It's a personal view that others might disagree with." },
+            { "text": "It's something that can change over time." },
+            { "text": "It's written in a newspaper." }
+          ],
+          "answer": 0,
+          "explanation": "This correctly describes what makes something an opinion. Opinions are personal views, judgments, or feelings about something, and different people can have different opinions about the same thing."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which statement about planets is a fact?",
+          "options": [
+            { "text": "Mars is the most interesting planet." },
+            { "text": "Jupiter is the largest planet in our solar system." },
+            { "text": "Venus would be a fun place to visit." }
+          ],
+          "answer": 1,
+          "explanation": "This is a fact because it's a true statement about Jupiter that can be measured and verified. Jupiter is indeed the largest planet in our solar system."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of these is an opinion about sports?",
+          "options": [
+            { "text": "A soccer ball is round." },
+            { "text": "Basketball is played on a court." },
+            { "text": "Swimming is the best sport." }
+          ],
+          "answer": 2,
+          "explanation": "This is an opinion because it expresses a personal preference for sports. Some people might think swimming is the best, while others might prefer different sports."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which statement is a fact about the human body?",
+          "options": [
+            { "text": "The heart pumps blood around the body." },
+            { "text": "Blue eyes are prettier than brown eyes." },
+            { "text": "Everyone should exercise every day." }
+          ],
+          "answer": 0,
+          "explanation": "This is a fact because it's a true statement about how the human body works. It can be scientifically proven and observed."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of these is an opinion about music?",
+          "options": [
+            { "text": "Music is made up of different sounds." },
+            { "text": "Rock music is better than classical music." },
+            { "text": "Musical instruments produce sound." }
+          ],
+          "answer": 1,
+          "explanation": "This is an opinion because it expresses a personal preference for music genres. Some people might prefer rock music, while others might enjoy classical music more."
+        },
+        {
+          "questionNo": 18,
+          "question": "What's a good way to tell if something is a fact?",
+          "options": [
+            { "text": "Ask if your friends agree with it." },
+            { "text": "See if it makes you feel happy." },
+            { "text": "Check if it can be proven true." }
+          ],
+          "answer": 2,
+          "explanation": "This is the best way to determine if something is a fact. Facts are statements that can be proven true through evidence, observation, or measurement."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of these is a fact about transportation?",
+          "options": [
+            { "text": "Cars have wheels." },
+            { "text": "Bicycles are more fun than cars." },
+            { "text": "Everyone should learn to fly a plane." }
+          ],
+          "answer": 0,
+          "explanation": "This is a fact because it's a true statement about cars that can be observed. All cars have wheels to move. The other options are opinions that express personal views or false beliefs about transportation, which aren't based on verifiable facts."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which statement about animals is an opinion?",
+          "options": [
+            { "text": "Elephants have trunks." },
+            { "text": "Dogs make the best pets." },
+            { "text": "Birds have feathers." }
+          ],
+          "answer": 1,
+          "explanation": "This is an opinion because it expresses a personal preference for pets. Some people might think dogs are the best pets, while others might prefer cats, fish, or other animals."
+        }
+      ]
+    }
+  ]
+}
